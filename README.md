@@ -1,2 +1,2 @@
-- armenian_bible_wordforms.json: List of Classical Armenian wordforms and corresponding lemma scraped from https://bible.armeniancathedral.org/book/index_w_az.htm
-- abuladze_dict.jsonl: Abuladze (1973) _Dictionary of the Old Georgian Language (Materials)_ scraped from http://www.nplg.gov.ge/gwdict/index.php?a=index&d=57
+- armenian_bible_wordforms.json: List of Classical Armenian wordforms and corresponding lemma scraped from [Arak29](https://bible.armeniancathedral.org/book/index_w_az.htm) 
+- abuladze_dict.jsonl: Abuladze (1973) _Dictionary of the Old Georgian Language (Materials)_ scraped from [Georgian National Library ](http://www.nplg.gov.ge/gwdict/index.php?a=index&d=57)
